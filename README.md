@@ -3,6 +3,9 @@
 
 I'm a college student
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurulle&label=Views&color=blue&style=plastic" alt="nurulle" /> </p>
+
+
 ### Connect with me:
 
 <a href="https://twitter.com/NurulDRamadhan1">
